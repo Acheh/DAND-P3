@@ -1,4 +1,4 @@
-# DAND-P3
+# Data Wrangling Of OpenStreetMap Data of Dallas - Fort Worth Texas 
 OpenStreetMap Dallas Texas Metro Area Data Case Study
 
 Using data munging techniques such as assessing data quality for validity, completeness, consistency and uniformity to clean the OSM data of Dallas Texas area.
